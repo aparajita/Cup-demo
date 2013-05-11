@@ -1,0 +1,5 @@
+/Build/
+/Frameworks/
+/server/
+xcuserdata/
+*.backup
