@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:upload-demo.xcodeproj">
+      location = "self:cup-demo.xcodeproj">
    </FileRef>
 </Workspace>

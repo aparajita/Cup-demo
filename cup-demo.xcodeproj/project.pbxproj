@@ -7,55 +7,39 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		155C4EF2A3C8C1BE6891B561 /* Frameworks∕Debug∕Cup∕Cup.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕Cup.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕Cup.h"; sourceTree = SOURCE_ROOT; };
-		19984379A1B920D3372501A7 /* AppController.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.j; path = AppController.j; sourceTree = SOURCE_ROOT; };
-		42424F4DB5074370425033D5 /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕CupByteCountTransformer.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupByteCountTransformer.h"; sourceTree = SOURCE_ROOT; };
-		4428470FB120385B6D45AE50 /* Cup.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Cup.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/Cup.j; sourceTree = "<absolute>"; };
-		48774D7FACE6CAD1C12ED576 /* AppController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.m; path = .XcodeSupport/AppController.m; sourceTree = SOURCE_ROOT; };
-		5F82495386991D44A48F05F5 /* CupDelegate.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CupDelegate.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/CupDelegate.j; sourceTree = "<absolute>"; };
-		5FBF42E28938967C2CD3A0A5 /* xcc_general_include.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = xcc_general_include.h; path = .XcodeSupport/xcc_general_include.h; sourceTree = SOURCE_ROOT; };
-		690349F0AEA39B01D71CEF40 /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕CupByteCountTransformer.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupByteCountTransformer.m"; sourceTree = SOURCE_ROOT; };
-		6D8E424DABAB796009FDD7F1 /* Cup Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Cup Resources"; path = /Users/aparajita/Development/Libs/cappuccino/Cup/Resources; sourceTree = "<absolute>"; };
-		804140A7B7198B5181851585 /* Frameworks∕Debug∕Cup∕Cup.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕Cup.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕Cup.m"; sourceTree = SOURCE_ROOT; };
-		A5EF4856AECCB1298269429E /* Frameworks∕Debug∕Cup∕CupDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕CupDelegate.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupDelegate.m"; sourceTree = SOURCE_ROOT; };
-		A62641A290B5D1A6C5092BF7 /* AppController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppController.h; path = .XcodeSupport/AppController.h; sourceTree = SOURCE_ROOT; };
-		C9EB4242A7C241FB11A91276 /* Frameworks∕Debug∕Cup∕CupDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕CupDelegate.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupDelegate.h"; sourceTree = SOURCE_ROOT; };
+		20D94CAC8B27308C4DE09A77 /* CupDelegate.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CupDelegate.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/CupDelegate.j; sourceTree = "<absolute>"; };
+		3D134DC884D2D18CA608A4F7 /* AppController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppController.h; path = .XcodeSupport/AppController.h; sourceTree = SOURCE_ROOT; };
+		3D2540938247CBCBAF8B09CE /* Frameworks∕Debug∕Cup∕Cup.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕Cup.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕Cup.h"; sourceTree = SOURCE_ROOT; };
+		5AA04ABAA5C7A3D163762C5C /* xcc_general_include.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = xcc_general_include.h; path = .XcodeSupport/xcc_general_include.h; sourceTree = SOURCE_ROOT; };
+		71DB4DFEB268D422DA274F64 /* Frameworks∕Debug∕Cup∕CupDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕CupDelegate.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupDelegate.m"; sourceTree = SOURCE_ROOT; };
+		930C41548E453B53D8B6CB4E /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕CupByteCountTransformer.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupByteCountTransformer.h"; sourceTree = SOURCE_ROOT; };
+		943140329187A15F4DA1F583 /* CupByteCountTransformer.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CupByteCountTransformer.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/CupByteCountTransformer.j; sourceTree = "<absolute>"; };
+		95964CE387BC7216B688847C /* AppController.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.j; path = AppController.j; sourceTree = SOURCE_ROOT; };
+		B0CC4450BBC21208C05EA7CD /* Cup.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Cup.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/Cup.j; sourceTree = "<absolute>"; };
+		B9924FBEB80D45F427CF5527 /* AppController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.m; path = .XcodeSupport/AppController.m; sourceTree = SOURCE_ROOT; };
+		BCA84486B7180A5D03BAEFBB /* Cup Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Cup Resources"; path = /Users/aparajita/Development/Libs/cappuccino/Cup/Resources; sourceTree = "<absolute>"; };
+		BED5428DA58D8B1F81A184AB /* Frameworks∕Debug∕Cup∕Cup.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕Cup.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕Cup.m"; sourceTree = SOURCE_ROOT; };
+		D4FF4B8BA76C607E4D968B1B /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Frameworks∕Debug∕Cup∕CupByteCountTransformer.m"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupByteCountTransformer.m"; sourceTree = SOURCE_ROOT; };
 		E164FE29172185F500263CE3 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
-		FDF1475491CA5D5E1F64C0CD /* CupByteCountTransformer.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CupByteCountTransformer.j; path = /Users/aparajita/Development/Libs/cappuccino/Cup/CupByteCountTransformer.j; sourceTree = "<absolute>"; };
+		E5724EEAB240B4905708DB1A /* Frameworks∕Debug∕Cup∕CupDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Frameworks∕Debug∕Cup∕CupDelegate.h"; path = ".XcodeSupport/Frameworks∕Debug∕Cup∕CupDelegate.h"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		04244EFDA9E3857CFA8ACB92 /* Cocoa Classes */ = {
+		B18D42C5B9B67BCB620BD722 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A62641A290B5D1A6C5092BF7 /* AppController.h */,
-				48774D7FACE6CAD1C12ED576 /* AppController.m */,
-				155C4EF2A3C8C1BE6891B561 /* Frameworks∕Debug∕Cup∕Cup.h */,
-				804140A7B7198B5181851585 /* Frameworks∕Debug∕Cup∕Cup.m */,
-				42424F4DB5074370425033D5 /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.h */,
-				690349F0AEA39B01D71CEF40 /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.m */,
-				C9EB4242A7C241FB11A91276 /* Frameworks∕Debug∕Cup∕CupDelegate.h */,
-				A5EF4856AECCB1298269429E /* Frameworks∕Debug∕Cup∕CupDelegate.m */,
-				5FBF42E28938967C2CD3A0A5 /* xcc_general_include.h */,
-			);
-			name = "Cocoa Classes";
-			sourceTree = "<group>";
-		};
-		CDAD4C4791E50F895A199D6A /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				4428470FB120385B6D45AE50 /* Cup.j */,
-				FDF1475491CA5D5E1F64C0CD /* CupByteCountTransformer.j */,
-				5F82495386991D44A48F05F5 /* CupDelegate.j */,
+				B0CC4450BBC21208C05EA7CD /* Cup.j */,
+				943140329187A15F4DA1F583 /* CupByteCountTransformer.j */,
+				20D94CAC8B27308C4DE09A77 /* CupDelegate.j */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		DB1C46F59E44E4EDACA196F4 /* Cappuccino Source */ = {
+		D18A495581C8BD49735857E1 /* Cappuccino Source */ = {
 			isa = PBXGroup;
 			children = (
-				19984379A1B920D3372501A7 /* AppController.j */,
-				CDAD4C4791E50F895A199D6A /* Frameworks */,
+				95964CE387BC7216B688847C /* AppController.j */,
+				B18D42C5B9B67BCB620BD722 /* Frameworks */,
 			);
 			name = "Cappuccino Source";
 			sourceTree = "<group>";
@@ -64,10 +48,26 @@
 			isa = PBXGroup;
 			children = (
 				E164FE29172185F500263CE3 /* Resources */,
-				6D8E424DABAB796009FDD7F1 /* Cup Resources */,
-				04244EFDA9E3857CFA8ACB92 /* Cocoa Classes */,
-				DB1C46F59E44E4EDACA196F4 /* Cappuccino Source */,
+				BCA84486B7180A5D03BAEFBB /* Cup Resources */,
+				E78D4604B6DAD8ED8544F500 /* Cocoa Classes */,
+				D18A495581C8BD49735857E1 /* Cappuccino Source */,
 			);
+			sourceTree = "<group>";
+		};
+		E78D4604B6DAD8ED8544F500 /* Cocoa Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3D134DC884D2D18CA608A4F7 /* AppController.h */,
+				B9924FBEB80D45F427CF5527 /* AppController.m */,
+				3D2540938247CBCBAF8B09CE /* Frameworks∕Debug∕Cup∕Cup.h */,
+				BED5428DA58D8B1F81A184AB /* Frameworks∕Debug∕Cup∕Cup.m */,
+				930C41548E453B53D8B6CB4E /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.h */,
+				D4FF4B8BA76C607E4D968B1B /* Frameworks∕Debug∕Cup∕CupByteCountTransformer.m */,
+				E5724EEAB240B4905708DB1A /* Frameworks∕Debug∕Cup∕CupDelegate.h */,
+				71DB4DFEB268D422DA274F64 /* Frameworks∕Debug∕Cup∕CupDelegate.m */,
+				5AA04ABAA5C7A3D163762C5C /* xcc_general_include.h */,
+			);
+			name = "Cocoa Classes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
