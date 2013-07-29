@@ -257,6 +257,7 @@
 							<string key="NSFrame">{{575, 12}, {237, 17}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
+							<reference key="NSNextKeyView"/>
 							<string key="NSReuseIdentifierKey">_NS:1535</string>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSTextFieldCell" key="NSCell" id="228556200">
@@ -290,7 +291,7 @@
 											<string key="NSFrameSize">{790, 223}</string>
 											<reference key="NSSuperview" ref="825386291"/>
 											<reference key="NSWindow"/>
-											<reference key="NSNextKeyView" ref="960176962"/>
+											<reference key="NSNextKeyView" ref="395542782"/>
 											<string key="NSReuseIdentifierKey">_NS:13</string>
 											<bool key="NSEnabled">YES</bool>
 											<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
@@ -497,7 +498,7 @@
 							<string key="NSFrame">{{20, 40}, {792, 241}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
-							<reference key="NSNextKeyView" ref="825386291"/>
+							<reference key="NSNextKeyView" ref="960176962"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<int key="NSsFlags">133682</int>
 							<reference key="NSVScroller" ref="763367378"/>
@@ -2127,7 +2128,7 @@
 								</object>
 								<object class="IBUserDefinedRuntimeAttribute">
 									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">keyPath</string>
+									<string key="keyPath">maxChunkSize</string>
 									<integer value="1000" key="value"/>
 								</object>
 							</object>
