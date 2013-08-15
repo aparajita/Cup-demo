@@ -3,3 +3,5 @@
 /server/
 xcuserdata/
 *.backup
+
+/cup-demo.xcodeproj/project.xcworkspace/xcshareddata/
