@@ -17,7 +17,8 @@
 @implementation AppController : CPObject
 {
     @outlet CPWindow    theWindow;
-    @outlet Cup         uploader;
+    @outlet Cup         uploader1;
+    @outlet Cup         uploader2;
 
     BOOL                logging @accessors;
 }
